@@ -16,7 +16,7 @@ public class Calculator extends JFrame
     }
 
     public void set() {
-        j1 = new JLabel("calculate");
+        j1 = new JLabel("Calculate");
         j2 = new JLabel("first number");
         j3 = new JLabel("second number");
         t1 = new JTextField();
